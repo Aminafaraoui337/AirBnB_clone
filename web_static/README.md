@@ -1,1 +1,1 @@
-this is web stattic project directory
+web stattic directory
